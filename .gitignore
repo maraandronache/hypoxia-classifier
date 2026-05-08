@@ -1,0 +1,9 @@
+# Python artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data files
+data/*
+!data/.gitkeep
+
