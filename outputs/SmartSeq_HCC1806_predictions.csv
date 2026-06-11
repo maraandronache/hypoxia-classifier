@@ -26,7 +26,7 @@ cell,predicted_label
 25,Normoxia
 26,Normoxia
 27,Normoxia
-28,Hypoxia
+28,Normoxia
 29,Normoxia
 30,Hypoxia
 31,Hypoxia
@@ -41,6 +41,6 @@ cell,predicted_label
 40,Hypoxia
 41,Hypoxia
 42,Normoxia
-43,Hypoxia
+43,Normoxia
 44,Normoxia
 45,Normoxia
